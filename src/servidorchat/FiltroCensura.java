@@ -12,7 +12,7 @@ public class FiltroCensura {
         palabrasProhibidas.add("nazi");
         palabrasProhibidas.add("PerroS");
         palabrasProhibidas.add("sexo");
-        palabrasProhibidas.add("LuisRebollo");
+        //palabrasProhibidas.add("");
         // Agrega más palabras según sea necesario
     }
 
